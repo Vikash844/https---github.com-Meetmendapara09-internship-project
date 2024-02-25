@@ -11,7 +11,7 @@ function SimpleSlider() {
     slidesToShow: 1,
     slidesToScroll: 1,
   };
-
+//return funtion
   return (
     <Slider {...settings} className="mx-20 mt-5">
       <div className="bg-purple-300 px-5 py-10 rounded ">
